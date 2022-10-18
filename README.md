@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **projects of the backend**
 
-- 👨‍💻 All of my projects are available at [github](github)
+- 👨‍💻 All of my projects are available at [github](https://github.com/THE-FABI7)
 
 - 📫 How to reach me **fabianguancha13@gmail.com**
 
