@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fabian Guancha</h1>
-<h3 align="center">A passionate junior developer from colombia</h3>
+<h3 align="center">A passionate software developer from colombia</h3>
 
 - 🔭 I’m currently working on **projects of the backend**
 
@@ -8,6 +8,8 @@
 - 📫 How to reach me **fabianguancha13@gmail.com**
 
 - 👨‍💻 my web portfolio https://fabianguanchadeveloper.netlify.app/
+
+- 👨‍💻 university of caldas
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
