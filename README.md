@@ -24,6 +24,7 @@ fabian-alberto-guancha-a33a74204" target="blank"><img align="center" src="https:
 <a  href = "https://code.visualstudio.com/" target="_blank" rel="noreferrer">
 <img src = "https://github.com/vorillaz/devicons/blob/master/!SVG/visualstudio.svg" alt = "visual studio code" width = "40"  height = "40" />  
 </a><a href = " https://git-scm.com/">   <img src= "https://github.com/vorillaz/devicons/blob/master/!SVG/git.svg" alt = "git" width = "40"  height = "40" ></a>
+<a href = "https://nodejs.org/es">  <img src = "https://github.com/vorillaz/devicons/blob/master/!SVG/nodejs.svg" alt = "git" width = "40"  height = "40"></a>
 </p>
 
 
