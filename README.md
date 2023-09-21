@@ -41,9 +41,7 @@ fabian-alberto-guancha-a33a74204" target="blank"><img align="center" src="https:
 <br>
 <br>
 <br>
-  <img height="180em" src="https://camo.githubusercontent.com/cee2d0687ffe0caec57a02ce1240ddfc8aded093eae564b4adb34f2ca2d17d59/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d416e6472657336323026686964653d636f6e747269627326636f756e745f707269766174653d747275652673686f775f69636f6e733d74727565267468656d653d746f6b796f6e696768742662675f636f6c6f723d3030303030303030" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Andres620&amp;hide=contribs&amp;count_private=true&amp;show_icons=true&amp;theme=tokyonight&amp;bg_color=00000000" style="max-width: 100%;">
-  <img height="180em" src="https://camo.githubusercontent.com/10dd944ba7c6f81d5809ef0e4a5557e7288fdd5db9a5fa0cff071968af53c578/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d416e64726573363230266c61796f75743d636f6d70616374266c616e67735f636f756e743d3726267468656d653d746f6b796f6e696768742662675f636f6c6f723d303030303030303026686964655f70726f67726573733d74727565" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andres620&amp;layout=compact&amp;langs_count=7&amp;&amp;theme=tokyonight&amp;bg_color=00000000&amp;hide_progress=true" style="max-width: 100%;">
-</a></div>
+
 
  
 </div>
