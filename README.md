@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fabian Guancha</h1>
 <h3 align="center">A passionate software developer from colombia</h3>
-![Crying GIF](https://media.giphy.com/media/p4w0AMZJa2EtG/giphy.gif =250x250)
+
 
 - 🔭 I’m currently working on **projects of the backend**
 
@@ -12,6 +12,7 @@
 
 - 👨‍💻 university of caldas
 
+<img align="center" src="https://media4.giphy.com/media/p4w0AMZJa2EtG/giphy.gif?cid=ecf05e47ro88ks7ubp9g4vivzk8ispay7ksx1zbgulf3nsf0&ep=v1_gifs_search&rid=giphy.gif&ct=g" ></>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="www.linkedin.com/in/
