@@ -29,7 +29,7 @@ fabian-alberto-guancha-a33a74204" target="blank"><img align="center" src="https:
 </p>
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/p4w0AMZJa2EtG/giphy.gif?cid=ecf05e47ro88ks7ubp9g4vivzk8ispay7ksx1zbgulf3nsf0&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Crying GIF">
+  <img src="https://media3.giphy.com/media/zwPRprvrP4Lm0/giphy.gif?cid=ecf05e47yk836k8ztwm8p73543h3voqjh4qa6l6d60cyhclx&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 </p>
 
 
