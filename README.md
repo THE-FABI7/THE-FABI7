@@ -11,7 +11,7 @@
 - 👨‍💻 my web portfolio https://fabianguanchadeveloper.netlify.app/
 
 - 👨‍💻 university of caldas
-- 
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="www.linkedin.com/in/
@@ -27,7 +27,9 @@ fabian-alberto-guancha-a33a74204" target="blank"><img align="center" src="https:
 </a><a href = " https://git-scm.com/">   <img src= "https://github.com/vorillaz/devicons/blob/master/!SVG/git.svg" alt = "git" width = "40"  height = "40" ></a>
 <a href = "https://nodejs.org/es">  <img src = "https://github.com/vorillaz/devicons/blob/master/!SVG/nodejs.svg" alt = "git" width = "40"  height = "40"></a>
 </p>
-<div align="center">
+
+<p align="center">
   <img src="https://media4.giphy.com/media/p4w0AMZJa2EtG/giphy.gif?cid=ecf05e47ro88ks7ubp9g4vivzk8ispay7ksx1zbgulf3nsf0&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Crying GIF">
-</div>
+</p>
+
 
