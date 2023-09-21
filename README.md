@@ -12,6 +12,7 @@
 <br>
 <br>
 <br>
+<h1 align="center">-------------------------------------------------------------------------------------</h1>
 <h1 align="center">Hi 👋, I'm Fabian Guancha</h1>
 <h3 align="center">A passionate software developer from colombia</h3>
 
@@ -41,8 +42,5 @@ fabian-alberto-guancha-a33a74204" target="blank"><img align="center" src="https:
 </a><a href = " https://git-scm.com/">   <img src= "https://github.com/vorillaz/devicons/blob/master/!SVG/git.svg" alt = "git" width = "40"  height = "40" ></a>
 <a href = "https://nodejs.org/es">  <img src = "https://github.com/vorillaz/devicons/blob/master/!SVG/nodejs.svg" alt = "git" width = "40"  height = "40"></a>
 </p>
-<lr>
-<p align="center">
-  <img src="https://media3.giphy.com/media/zwPRprvrP4Lm0/giphy.gif?cid=ecf05e47yk836k8ztwm8p73543h3voqjh4qa6l6d60cyhclx&ep=v1_gifs_search&rid=giphy.gif&ct=g">
-</p>
+
 
