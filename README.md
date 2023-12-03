@@ -51,7 +51,7 @@ fabian-alberto-guancha-a33a74204" target="blank"><img align="center" src="https:
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwhz-1i47AmzeWNvXozfJy6DphF7HN9BUMLA" alt="python" width="120" style="max-width: 100%;">
 
-<img src="https://ubunlog.com/wp-content/uploads/2015/09/linux-logo.jpg" alt="python" width="120" style="max-width: 100%;">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/raw/master/assets/icons/bash.png" alt="bash" width="100" style="max-width: 100%;">
 
 
 </div>
