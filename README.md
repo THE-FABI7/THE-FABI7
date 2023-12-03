@@ -36,7 +36,9 @@ fabian-alberto-guancha-a33a74204" target="blank"><img align="center" src="https:
 
 <h3 align="left">Languages and Tools:</h3>
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/java.png"><img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/raw/master/assets/icons/java.png" alt="java" width="100" style="max-width: 100%;"></a>
-
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/raw/master/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" style="max-width: 100%;">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/raw/master/assets/icons/ai.png" alt="AI" width="90" style="max-width: 100%;">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/raw/master/assets/icons/datascience.png" alt="datascience" width="180" style="max-width: 100%;">
 
 <p align="center">
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://media4.giphy.com/media/jIqh3ym2s7GU/giphy.gif?cid=ecf05e47wom7e312r5zmonnff9vymhxbwlwlkppg3xmh66s0&ep=v1_gifs_search&rid=giphy.gif&ct=g">
