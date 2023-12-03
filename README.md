@@ -42,7 +42,9 @@ fabian-alberto-guancha-a33a74204" target="blank"><img align="center" src="https:
 <a href = "https://nodejs.org/es">  <img src = "https://github.com/vorillaz/devicons/blob/master/!SVG/nodejs.svg" alt = "git" width = "40"  height = "40"></a>
 </p>
 
-<img src="https://media1.giphy.com/media/N5B19awm2YvwMwf8JE/giphy.webp?cid=ecf05e47iphohl3imgtcot0n8lzqtnarmbhvfriudc1t1az4&ep=v1_gifs_search&rid=giphy.webp&ct=g" widtth=20& align="right" alt="robot_1p" data-canonical-src="https://raw.githubusercontent.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/master/assets/1936.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+<p dir="auto"><animated-image data-catalyst="" style="float: right; width: 550px;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://media1.giphy.com/media/N5B19awm2YvwMwf8JE/giphy.webp?cid=ecf05e47iphohl3imgtcot0n8lzqtnarmbhvfriudc1t1az4&ep=v1_gifs_search&rid=giphy.webp&ct=g" data-target="animated-image.originalLink"><img src="https://media1.giphy.com/media/N5B19awm2YvwMwf8JE/giphy.webp?cid=ecf05e47iphohl3imgtcot0n8lzqtnarmbhvfriudc1t1az4&ep=v1_gifs_search&rid=giphy.webp&ct=g" widtth=20& align="right" alt="robot_1p" data-canonical-src="https://raw.githubusercontent.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/master/assets/1936.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+      <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
+        <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://media1.giphy.com/media/N5B19awm2YvwMwf8JE/giphy.webp?cid=ecf05e47iphohl3imgtcot0n8lzqtnarmbhvfriudc1t1az4&ep=v1_gifs_search&rid=giphy.webp&ct=g" target="_blank">
 
 
 
