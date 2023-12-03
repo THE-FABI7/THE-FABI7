@@ -35,7 +35,7 @@ fabian-alberto-guancha-a33a74204" target="blank"><img align="center" src="https:
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<div style="text-align: justify;">
+<div style="text-align: center ;">
 
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/java.png">
     <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/raw/master/assets/icons/java.png" alt="java" width="100" style="max-width: 100%;">
