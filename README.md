@@ -15,7 +15,7 @@
 <h3 align="center">A passionate software developer from colombia</h3>
 
 
-- 🔭 I’m currently working on **projects of the backend**
+- 🔭 I am interested in working on AI, cybersecurity and data analysis projects.
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/THE-FABI7)
 
