@@ -67,6 +67,12 @@ fabian-alberto-guancha-a33a74204" target="blank"><img align="center" src="https:
   </a>
 </p>
 
+<div align="center" width="300">
+<h2 align= "center">Contador de visitas 👀</h2>
+
+![Visitor Count](https://profile-counter.glitch.me/{ingmiguelangelgosan}/count.svg)
+</div>
+
 
 
 
